@@ -1,0 +1,6 @@
+c:\users\vir\documents\visual studio 2017\CompareCSV\CompareCSV\bin\Debug\CompareCSV.dll
+c:\users\vir\documents\visual studio 2017\CompareCSV\CompareCSV\bin\Debug\CompareCSV.pdb
+c:\users\vir\documents\visual studio 2017\CompareCSV\CompareCSV\obj\Debug\CompareCSV.csprojResolveAssemblyReference.cache
+c:\users\vir\documents\visual studio 2017\CompareCSV\CompareCSV\obj\Debug\CompareCSV.csproj.CoreCompileInputs.cache
+c:\users\vir\documents\visual studio 2017\CompareCSV\CompareCSV\obj\Debug\CompareCSV.dll
+c:\users\vir\documents\visual studio 2017\CompareCSV\CompareCSV\obj\Debug\CompareCSV.pdb
