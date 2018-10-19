@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CompareCSV
 {
-    public class CompareCsv
+    public class CompareCsvBLL
     {
         public static bool IsEqual(string filePath1, string filePath2)
         {
